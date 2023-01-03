@@ -59,5 +59,5 @@ MongoDB
 
 Total: 35pts
 
-|<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://avatars.githubusercontent.com/u/74303569?v=4" width="150" height="150" />|<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://avatars.githubusercontent.com/u/120114578?v=4" width="150" height="150" />Matéo PALMIERI|
+|<div style="display:flex; flex-direction: column"><img src="https://avatars.githubusercontent.com/u/74303569?v=4" width="150" height="150" /><p>Cyprien SIAUD</p></div>|<div style="display:flex; flex-direction: column"><img src="https://avatars.githubusercontent.com/u/120114578?v=4" width="150" height="150" /><p>Matéo PALMIERI</p></div>|
 |---|---|
