@@ -59,5 +59,5 @@ MongoDB
 
 Total: 35pts
 
-|![Cyprien Siaud](https://avatars.githubusercontent.com/u/74303569?v=4) Cyprien SIAUD|![Matéo Palmieri](https://avatars.githubusercontent.com/u/120114578?v=4)Matéo PALMIERI|
+|![Cyprien Siaud](https://avatars.githubusercontent.com/u/74303569?v=4 | width=100) Cyprien SIAUD|![Matéo Palmieri](https://avatars.githubusercontent.com/u/120114578?v=4)Matéo PALMIERI|
 |---|---|
